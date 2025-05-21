@@ -1,0 +1,10 @@
+1. PWM upravljanje brzinom i smjerom obrtanja rotora DC motora pomocu H-mosta
+2. greske senzora zbog histerezisa i neidealne ponovljivosti.
+2. Senzor pritiska
+4.senzor protoka tecnosti
+5. staticka tacnost senzora
+6. mjerenje sile ako je otpornost  pomoćna promjenljiva
+7. mjerenje tecnosti pomocu rotametra
+8. uloga pojacanja senzorskih signala za tacnije dobijanje vrijednosti mjerene velicine
+9. uticaj periode/frekvencije PWM signala na ponasanje aktuatora
+10. znacaj pojacanja senzorskog signala za kvalitetno ponasanje sistema

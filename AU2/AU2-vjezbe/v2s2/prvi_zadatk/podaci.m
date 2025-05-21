@@ -1,0 +1,15 @@
+Pn=0.5;
+Nn=2000;
+Uan=220;
+Ian=3.4;
+Ju=0.0157;
+Ra=8.77;
+Rp=1.8;
+La=0.1584;
+Rd=6.5;
+Lp=0.142;
+Rau=Ra+Rp+Rd;
+Lau=La+Lp;
+Ka=1/Rau;
+Ta=Lau/Rau;
+K=(Uan-Ra*Ian)/(Nn*pi/30);
