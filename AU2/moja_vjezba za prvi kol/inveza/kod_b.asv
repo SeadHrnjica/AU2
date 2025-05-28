@@ -1,0 +1,6 @@
+syms y x
+f = (log((y + 7)/5) - 3)/2;  % zamjena ln sa log
+invF=solve(y==f,x);
+invFunc=matlabFunction(invF);
+y=[0,5,10,15,20,25,30,35,40,45,49,50];
+x=invFunc(y)
