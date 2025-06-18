@@ -1,0 +1,5 @@
+Onda drugi je bio hidraulika (al jednostavne formule samo) imas silu i pritisak, trebas naci povrsinu cilindra (A = F/p) onda trebas naci
+poprecni presjek cilindra D = sqrt(4A / π) ja mislim da je tako formula, onda treba naci zapreminu cilindra V= A × s (s je hod cilindra
+zadan u zadatku), onda  protok cilindra Q = A × v (v je brzina sabijanja zadana u zadatku) i naci vrijeme za koje cilindar obavi to jedno
+kretanje 
+t = s/v
